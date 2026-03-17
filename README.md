@@ -1,6 +1,8 @@
-# TanStack Start + Cloudflare + D1 + Drizzle + Better Auth
+# start-line
 
-Starter repo for TanStack Start on Cloudflare Workers with:
+My preferred stack for web apps. TanStack Start on Cloudflare, Drizzle ORM with Better Auth.
+
+- TanStack Start (React)
 
 - TanStack Start (React)
 - Cloudflare Workers + D1
