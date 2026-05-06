@@ -52,8 +52,8 @@ importers:
         specifier: ^0.31.6
         version: 0.31.9
       tailwindcss:
-        specifier: ^4.1.18
-        version: 4.2.1
+        specifier: ^4.2.4
+        version: 4.2.4
       typescript:
         specifier: ^5.7.2
         version: 5.9.3
@@ -2230,9 +2230,6 @@ packages:
     resolution: {integrity: sha512-SS+jx45GF1QjgEXQx4NJZV9ImqmO2NPz5FNsIHrsDjh2YsHnawpan7SNQ1o8NuhrbHZy9AZhIoCUiCeaW/C80g==}
     engines: {node: '>=18'}
 
-  tailwindcss@4.2.1:
-    resolution: {integrity: sha512-/tBrSQ36vCleJkAOsy9kbNTgaxvGbyOamC30PRePTQe/o1MFwEKHQk4Cn7BNGaPtjp+PuUrByJehM1hgxfq4sw==}
-
   tailwindcss@4.2.4:
     resolution: {integrity: sha512-HhKppgO81FQof5m6TEnuBWCZGgfRAWbaeOaGT00KOy/Pf/j6oUihdvBpA7ltCeAvZpFhW3j0PTclkxsd4IXYDA==}
 
@@ -4198,8 +4195,6 @@ snapshots:
   srvx@0.11.15: {}
 
   supports-color@10.2.2: {}
-
-  tailwindcss@4.2.1: {}
 
   tailwindcss@4.2.4: {}
 
